@@ -1,0 +1,6 @@
+name: FlowCoreX
+version: 1.0.0
+main: cz.flowcore.FlowCoreX
+api-version: '26.2'
+author: Flow SMP
+description: Flow SMP Core Plugin
